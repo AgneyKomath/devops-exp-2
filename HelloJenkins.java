@@ -1,5 +1,5 @@
 public class HelloJenkins {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins + Git Updated!");
+        System.out.println("Hello, Jenkins + Git Update!");
     }
 }
